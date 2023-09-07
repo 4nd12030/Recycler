@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#047c31</color>
+    <color name="teal_700">#047c31</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <!-- COLOR VERDE de la empresa -->
+    <color name="verde">#047c31</color>
+    <color name="verde_oscuro">#04441C</color>
+    <color name="verde_claro">#9CCC65</color>
+    <color name="amarillo">#FFC400</color>
+    <color name="amarillo_claro">#FFE57F</color>
+</resources>
